@@ -1,7 +1,7 @@
 
 # My First Project
 Fraud Detection Project from Upgrad
-<center><img src="assets/img/fruadimage.jpeg"></center>
+<center><img src="assets/img/fraudimage.jpeg"></center>
 
 ## Second Project
 
